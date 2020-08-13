@@ -9,7 +9,8 @@ public class Challenge {
 		String name = scanner.next();
 		String echo = ""; 
 		///{ 
-	 
+     
+        name.index
 		//start your coding here  
      
         //echo = "Hello "+name;
